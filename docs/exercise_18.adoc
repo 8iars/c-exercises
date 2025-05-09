@@ -1,0 +1,29 @@
+= Days conversion
+Days into Years, Months, and Days
+:doctype: book
+:source-highlighter: rouge
+
+== W18 Sun 2025-May-04 18:17:05+0530
+
+=== Description
+
+Write a C program to convert days into years, months, and days. Year has 365 days. Month has 30 days.
+
+=== Code
+
+[%linenums,c]
+----
+include::../source/exercise_18.c[]
+----
+
+=== Compilation & Output
+
+[%linenums,txt]
+----
+include::../output/output_18.txt[]
+----
+
+=== Report
+
+How to read `unsigned int` using `scanf()`?::
+Use `%u`

@@ -1,0 +1,80 @@
+W18 Sun 2025-May-04 18:21:13+0530
+
+CLANG OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** CLANG OUTPUT END *****
+
+W18 Sun 2025-May-04 18:21:13+0530
+
+GCC OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** GCC OUTPUT END *****
+
+W18 Sun 2025-May-04 18:22:16+0530
+
+CLANG OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** CLANG OUTPUT END *****
+
+W18 Sun 2025-May-04 18:22:16+0530
+
+GCC OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** GCC OUTPUT END *****
+
+W18 Sun 2025-May-04 18:23:04+0530
+
+GCC OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** GCC OUTPUT END *****
+
+W18 Sun 2025-May-04 18:23:10+0530
+
+GCC OUTPUT
+----------
+Enter days: Year(s): 6
+Month(s): 11
+Day(s): 15
+
+***** GCC OUTPUT END *****
+
+W18 Sun 2025-May-04 18:23:51+0530
+
+GCC OUTPUT
+----------
+Enter days: Year(s): 2
+Month(s): 9
+Day(s): 0
+
+***** GCC OUTPUT END *****
+
+W18 Sun 2025-May-04 18:23:53+0530
+
+CLANG OUTPUT
+----------
+Enter days: Year(s): 2
+Month(s): 9
+Day(s): 0
+
+***** CLANG OUTPUT END *****
+
